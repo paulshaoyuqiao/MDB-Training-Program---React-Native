@@ -1,0 +1,6 @@
+module Pods_meetthemembersapp {
+  umbrella header "Pods-meetthemembersapp-umbrella.h"
+
+  export *
+  module * { export * }
+}

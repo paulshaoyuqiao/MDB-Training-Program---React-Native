@@ -1,0 +1,12 @@
+{
+  "name": "meet-the-members-app",
+  "displayName": "meet-the-members-app",
+  "expo": {
+    "name": "meet-the-members-app",
+    "slug": "meet-the-members-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
